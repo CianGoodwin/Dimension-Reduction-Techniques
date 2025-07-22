@@ -8,3 +8,6 @@ This repository contains the code, analysis, and final report for my third-year 
 - Kernel PCA (K-PCA)
 
 The goal of this project was to explore the theoretical foundations behind each method whilst demonstrating how they can be applied to real-world data sets. The report also provides a comparative analysis of the techniques exploring their strengths, limitations and where each method performs best.
+
+[Find the datasets used here](./data/)
+[View the final report here](./dissertation.pdf)
