@@ -12,4 +12,4 @@ The goal of this project was to explore the theoretical foundations behind each 
 [Find the datasets used here](./data/)
 
 
-[View the final report here](./dissertation.pdf)
+[View the final report here](https://github.com/CianGoodwin/Dimension-Reduction-Techniques/blob/33b77a4236ad07e0aa1b06c81c9d509a0c9a27d0/High%20Dimensional%20Data%20Analysis%20and%20Dimension%20Reduction%20Techniques.pdf)
